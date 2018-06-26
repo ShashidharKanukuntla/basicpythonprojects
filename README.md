@@ -1,2 +1,2 @@
 # basicpythonprojects
-This repository basic projects programmed using Python
+This repository contains basic projects programmed using Python
